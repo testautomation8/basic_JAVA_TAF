@@ -1,0 +1,6 @@
+projectKey=JavaBasics
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/JavaBasics
+ceTaskId=AWmVvjNzHKp60l3HvyfB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWmVvjNzHKp60l3HvyfB
